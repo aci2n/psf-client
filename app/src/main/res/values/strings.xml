@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Play State Forwarder</string>
+    <string name="status_waiting">Waiting for \'com.android.music.playstatechanged\' intents…</string>
+    <string name="status_success">Sent: %1$s</string>
+    <string name="status_error">Error (cause: %1$s): %2$s</string>
+</resources>
